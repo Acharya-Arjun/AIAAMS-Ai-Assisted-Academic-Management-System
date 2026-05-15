@@ -120,140 +120,144 @@ npm run dev
 
 # 📸 System Previews
 
-                                                                       Admin
-  
-<table>
-  <tr>
-    <td width="50%">
-      <img alt="Screenshot 1" src="https://github.com/user-attachments/assets/ff349db0-f6a9-4dbd-bea4-9d4e5ad40cee" width="100%" />
-    </td>
-    <td width="50%">
-      <img alt="Screenshot 2" src="https://github.com/user-attachments/assets/6f41d45c-3f07-4d35-9eb9-18d9eb81c8c3" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img alt="Screenshot 3" src="https://github.com/user-attachments/assets/61b37aa4-e68b-413e-a0e7-de616a32174f" width="100%" />
-    </td>
-    <td>
-      <img alt="Screenshot 4" src="https://github.com/user-attachments/assets/5589c23e-b06a-4682-89ab-e7aa5ec3c2ae" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img alt="Screenshot 5" src="https://github.com/user-attachments/assets/4565f4ad-7c08-4d9c-82a1-98f9ac4fa592" width="100%" />
-    </td>
-    <td>
-      <img alt="Screenshot 6" src="https://github.com/user-attachments/assets/f1a0f587-7c43-4809-93fa-df25c23cf928" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img alt="Screenshot 7" src="https://github.com/user-attachments/assets/f8562bed-6c5c-41a9-93af-9204b558c950" width="100%" />
-    </td>
-    <td>
+<details>
+  <summary><b>👨‍💼 Admin Dashboards (Click to expand)</b></summary>
+  <br>
+  <table>
+    <tr>
+      <td width="50%">
+        <img alt="Screenshot 1" src="https://github.com/user-attachments/assets/ff349db0-f6a9-4dbd-bea4-9d4e5ad40cee" width="100%" />
       </td>
-  </tr>
-</table>
-
-
-                                                                       Faculty
-  
-<table>
-  <tr>
-    <td width="50%">
-      <img alt="Screenshot 1" src="https://github.com/user-attachments/assets/e2e54012-938e-46ea-be7e-7a6f9990922a" width="100%" />
-    </td>
-    <td width="50%">
-      <img alt="Screenshot 2" src="https://github.com/user-attachments/assets/357ef514-0244-4412-b578-bcd254cead19" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img alt="Screenshot 3" src="https://github.com/user-attachments/assets/a793d321-5f58-4849-bd80-fa899bd1c1f4" width="100%" />
-    </td>
-    <td>
-      <img alt="Screenshot 4" src="https://github.com/user-attachments/assets/37ace952-561e-473c-8293-0c0cd843f666" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img alt="Screenshot 5" src="https://github.com/user-attachments/assets/f38b7e81-d4fa-4580-a27a-c580d9b248b1" width="100%" />
-    </td>
-    <td>
-      <img alt="Screenshot 6" src="https://github.com/user-attachments/assets/5e1b7d55-67ee-4c1a-a9d2-3f71d9c36d14" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img alt="Screenshot 7" src="https://github.com/user-attachments/assets/f309906f-ef69-4148-b583-1a6729920c0c" width="100%" />
-    </td>
-    <td>
-      <img alt="Screenshot 8" src="https://github.com/user-attachments/assets/3202b0de-0e00-4cc5-8d7b-51e4144e18a5" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img alt="Screenshot 9" src="https://github.com/user-attachments/assets/9f42c63b-15b6-4c62-bdec-32ba75b66dee" width="100%" />
-    </td>
-    <td>
-      <img alt="Screenshot 10" src="https://github.com/user-attachments/assets/d2f338cf-2416-446b-8623-0d3bcbcc9c2d" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img alt="Screenshot 11" src="https://github.com/user-attachments/assets/e796ddf2-57b6-4aae-9312-be8f81a63be9" width="100%" />
-    </td>
-    <td>
-      <img alt="Screenshot 12" src="https://github.com/user-attachments/assets/eea4a053-162e-4766-97c8-b20150c8cc41" width="100%" />
-    </td>
-  </tr>
-</table>
-
-
-                                                                       Student
-  
-<table>
-  <tr>
-    <td width="50%">
-      <img alt="Screenshot 1" src="https://github.com/user-attachments/assets/eba28852-0fa7-49b5-93d3-d806d8499b63" width="100%" />
-    </td>
-    <td width="50%">
-      <img alt="Screenshot 2" src="https://github.com/user-attachments/assets/fcc98e6f-aa56-448a-9055-128404ef0384" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img alt="Screenshot 3" src="https://github.com/user-attachments/assets/47f0822c-6dd7-4548-9f44-0a2015c61b53" width="100%" />
-    </td>
-    <td>
-      <img alt="Screenshot 4" src="https://github.com/user-attachments/assets/226dc909-0b3e-4888-9ada-c5ca25047339" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img alt="Screenshot 5" src="https://github.com/user-attachments/assets/1868eac3-c1a0-4aa8-ad89-4a289c219c37" width="100%" />
-    </td>
-    <td>
-      <img alt="Screenshot 6" src="https://github.com/user-attachments/assets/12ac230f-d4fe-427f-a83d-57b15a50f2d5" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img alt="Screenshot 7" src="https://github.com/user-attachments/assets/835639a9-1823-4a3a-a85b-6100d1256fa1" width="100%" />
-    </td>
-    <td>
-      <img alt="Screenshot 8" src="https://github.com/user-attachments/assets/860baa3d-df86-4346-9607-8ca824b8aaff" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img alt="Screenshot 9" src="https://github.com/user-attachments/assets/a5201621-01c8-408d-b01a-757f46773387" width="100%" />
-    </td>
-    <td>
+      <td width="50%">
+        <img alt="Screenshot 2" src="https://github.com/user-attachments/assets/6f41d45c-3f07-4d35-9eb9-18d9eb81c8c3" width="100%" />
       </td>
-  </tr>
-</table>
+    </tr>
+    <tr>
+      <td>
+        <img alt="Screenshot 3" src="https://github.com/user-attachments/assets/61b37aa4-e68b-413e-a0e7-de616a32174f" width="100%" />
+      </td>
+      <td>
+        <img alt="Screenshot 4" src="https://github.com/user-attachments/assets/5589c23e-b06a-4682-89ab-e7aa5ec3c2ae" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img alt="Screenshot 5" src="https://github.com/user-attachments/assets/4565f4ad-7c08-4d9c-82a1-98f9ac4fa592" width="100%" />
+      </td>
+      <td>
+        <img alt="Screenshot 6" src="https://github.com/user-attachments/assets/f1a0f587-7c43-4809-93fa-df25c23cf928" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img alt="Screenshot 7" src="https://github.com/user-attachments/assets/f8562bed-6c5c-41a9-93af-9204b558c950" width="100%" />
+      </td>
+      <td>
+      </td>
+    </tr>
+  </table>
+</details>
+
+<details>
+  <summary><b>👩‍🏫 Faculty Views (Click to expand)</b></summary>
+  <br>
+  <table>
+    <tr>
+      <td width="50%">
+        <img alt="Screenshot 1" src="https://github.com/user-attachments/assets/e2e54012-938e-46ea-be7e-7a6f9990922a" width="100%" />
+      </td>
+      <td width="50%">
+        <img alt="Screenshot 2" src="https://github.com/user-attachments/assets/357ef514-0244-4412-b578-bcd254cead19" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img alt="Screenshot 3" src="https://github.com/user-attachments/assets/a793d321-5f58-4849-bd80-fa899bd1c1f4" width="100%" />
+      </td>
+      <td>
+        <img alt="Screenshot 4" src="https://github.com/user-attachments/assets/37ace952-561e-473c-8293-0c0cd843f666" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img alt="Screenshot 5" src="https://github.com/user-attachments/assets/f38b7e81-d4fa-4580-a27a-c580d9b248b1" width="100%" />
+      </td>
+      <td>
+        <img alt="Screenshot 6" src="https://github.com/user-attachments/assets/5e1b7d55-67ee-4c1a-a9d2-3f71d9c36d14" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img alt="Screenshot 7" src="https://github.com/user-attachments/assets/f309906f-ef69-4148-b583-1a6729920c0c" width="100%" />
+      </td>
+      <td>
+        <img alt="Screenshot 8" src="https://github.com/user-attachments/assets/3202b0de-0e00-4cc5-8d7b-51e4144e18a5" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img alt="Screenshot 9" src="https://github.com/user-attachments/assets/9f42c63b-15b6-4c62-bdec-32ba75b66dee" width="100%" />
+      </td>
+      <td>
+        <img alt="Screenshot 10" src="https://github.com/user-attachments/assets/d2f338cf-2416-446b-8623-0d3bcbcc9c2d" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img alt="Screenshot 11" src="https://github.com/user-attachments/assets/e796ddf2-57b6-4aae-9312-be8f81a63be9" width="100%" />
+      </td>
+      <td>
+        <img alt="Screenshot 12" src="https://github.com/user-attachments/assets/eea4a053-162e-4766-97c8-b20150c8cc41" width="100%" />
+      </td>
+    </tr>
+  </table>
+</details>
+
+<details>
+  <summary><b>🎓 Student Views (Click to expand)</b></summary>
+  <br>
+  <table>
+    <tr>
+      <td width="50%">
+        <img alt="Screenshot 1" src="https://github.com/user-attachments/assets/eba28852-0fa7-49b5-93d3-d806d8499b63" width="100%" />
+      </td>
+      <td width="50%">
+        <img alt="Screenshot 2" src="https://github.com/user-attachments/assets/fcc98e6f-aa56-448a-9055-128404ef0384" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img alt="Screenshot 3" src="https://github.com/user-attachments/assets/47f0822c-6dd7-4548-9f44-0a2015c61b53" width="100%" />
+      </td>
+      <td>
+        <img alt="Screenshot 4" src="https://github.com/user-attachments/assets/226dc909-0b3e-4888-9ada-c5ca25047339" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img alt="Screenshot 5" src="https://github.com/user-attachments/assets/1868eac3-c1a0-4aa8-ad89-4a289c219c37" width="100%" />
+      </td>
+      <td>
+        <img alt="Screenshot 6" src="https://github.com/user-attachments/assets/12ac230f-d4fe-427f-a83d-57b15a50f2d5" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img alt="Screenshot 7" src="https://github.com/user-attachments/assets/835639a9-1823-4a3a-a85b-6100d1256fa1" width="100%" />
+      </td>
+      <td>
+        <img alt="Screenshot 8" src="https://github.com/user-attachments/assets/860baa3d-df86-4346-9607-8ca824b8aaff" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img alt="Screenshot 9" src="https://github.com/user-attachments/assets/a5201621-01c8-408d-b01a-757f46773387" width="100%" />
+      </td>
+      <td>
+      </td>
+    </tr>
+  </table>
+</details>
 
 ---
 
